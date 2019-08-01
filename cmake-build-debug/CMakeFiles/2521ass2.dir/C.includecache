@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Yuan/CLionProjects/2521ass2/library.h
+
+/Users/Yuan/CLionProjects/2521ass2/pagerank.c
+pagerank.h
+/Users/Yuan/CLionProjects/2521ass2/pagerank.h
+library.h
+/Users/Yuan/CLionProjects/2521ass2/library.h
+
+/Users/Yuan/CLionProjects/2521ass2/pagerank.h
+stdio.h
+-
+stdlib.h
+-
+

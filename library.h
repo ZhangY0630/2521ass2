@@ -1,0 +1,6 @@
+#ifndef INC_2521ASS2_LIBRARY_H
+#define INC_2521ASS2_LIBRARY_H
+
+void hello(void);
+
+#endif //INC_2521ASS2_LIBRARY_H
